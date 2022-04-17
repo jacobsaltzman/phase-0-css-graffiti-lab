@@ -1,1 +1,47 @@
 /* write your override styles here */
+#wall .tag-1{
+    display: none;
+}
+
+
+
+
+#wall #tag-3  {
+    display: none;
+    height: 0;
+    width: 0;
+}
+
+
+.parent #tag-4  {
+    display: none;
+    height: 0;
+    width: 0;
+}
+
+.parent #tag-5  {
+    display: none;
+    height: 0;
+    width: 0;
+}
+
+.parent #tag-6 {
+    display: none;
+    height: 0;
+    width: 0;
+}
+
+
+.parent #tag-7  {
+    display: none;
+    height: 0;
+    width: 0;
+}
+
+
+#wall #tag-2{
+    display: block;
+    background: none;
+    width: 0;
+    height: 0;
+  }
